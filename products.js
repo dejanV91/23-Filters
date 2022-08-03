@@ -1,4 +1,5 @@
-const products = [
+
+export const products = [
   {
     id: 'rec43w3ipXvP28vog',
     title: 'high-back bench',
